@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpiVwc+cyYY9Fu5um1VaB4H0myfk//DW3YesThPFf1NLrpRdaBsdGjPJnGTaqGIT6vX+CssdHUYX2/anoObwuQ==",
+  "success": true,
+  "projectFilePath": "/Users/ramonasantos/Desktop/ProgramacionCsharp/Testing/SimpleApp/SimpleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramonasantos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
